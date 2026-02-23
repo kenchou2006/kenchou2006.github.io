@@ -1,38 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://kendev.us.kg/</loc>
+      <loc>https://page.zhiu.dev/</loc>
       <lastmod>2024-09-18</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://kendev.us.kg/MCVS-11171-Class-WebSite/</loc>
+      <loc>https://page.zhiu.dev/MCVS-11171-Class-WebSite/</loc>
       <lastmod>2024-09-18</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://kendev.us.kg/django-random-secret-key/</loc>
+      <loc>https://page.zhiu.dev/django-random-secret-key/</loc>
       <lastmod>2024-09-18</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://kendev.us.kg/display-gravatar-image/</loc>
+      <loc>https://page.zhiu.dev/display-gravatar-image/</loc>
       <lastmod>2024-09-18</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://kendev.us.kg/rickroll-site/</loc>
+      <loc>https://page.zhiu.dev/rickroll-site/</loc>
       <lastmod>2025-01-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://kendev.us.kg/helloworld-print-py/</loc>
+      <loc>https://page.zhiu.dev/helloworld-print-py/</loc>
       <lastmod>2025-01-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://page.zhiu.dev/CLUT-Math-Homework/monty-hall-simulator</loc>
+      <lastmod>2026-02-07</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
