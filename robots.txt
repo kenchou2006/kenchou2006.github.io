@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kendev.us.kg/sitemap.xml
+Sitemap: https://page.zhiu.dev/sitemap.xml
